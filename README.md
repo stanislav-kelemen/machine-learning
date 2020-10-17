@@ -1,3 +1,4 @@
-## Машинне навчання
-* 2, 3 тиждень курсу по "Machine learning" від Stanford University на Coursera  
-* lab1 по z-scores
+# machine-learning
+
+* Studying of regressions based on the Coursera course "Machine learning" from Stanford University
+* Outliers detection based on the laboratory work from my university course "Машинне навчання" 
